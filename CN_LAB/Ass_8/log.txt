@@ -1,0 +1,16 @@
+[2025-11-30 14:41:45] Client 6 joined the chat.
+
+[2025-11-30 14:41:52] (fd=6): hello
+
+[2025-11-30 14:44:07] Client 6 joined the chat.
+
+[2025-11-30 14:44:10] Client 7 joined the chat.
+
+[2025-11-30 14:44:15] (fd=7): hello
+
+[2025-11-30 14:44:22] (fd=6): hi there
+
+[2025-11-30 14:44:33] (fd=6): can you please do my lab_assignment
+
+[2025-11-30 14:44:38] (fd=7): sorry no
+
