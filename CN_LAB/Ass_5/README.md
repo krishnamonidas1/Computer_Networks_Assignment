@@ -11,3 +11,6 @@ Steps/ Hints: (if any)
    
 Learning Outcomes:
 1. Knowledge of packet generation and capturing tools.
+
+![screenshot](Screenshot from 2025-11-30 23-06-44.png)
+
