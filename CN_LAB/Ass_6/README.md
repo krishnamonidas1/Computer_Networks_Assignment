@@ -13,3 +13,6 @@ the Ethernet port.
 
 Learning Outcomes:
 1. Knowledge of TCP/IP libraries.
+
+![screenshot](Screenshot_2025-12-02_22_54_57.png)
+
