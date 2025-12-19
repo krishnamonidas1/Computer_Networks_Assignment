@@ -18,3 +18,5 @@ answer to the client.
 4. Run wireshark at the mininet host’s ethernet to capture packet and detect losses.
 Learning Outcomes:
 1. Understanding reliability of UDP for transactions.
+
+![screenshot](Screenshot_2025-12-02_23_06_12.png)
