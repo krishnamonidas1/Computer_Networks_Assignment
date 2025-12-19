@@ -11,3 +11,5 @@ Same as given in Assignment 1.
 
 Learning Outcomes:
 1. Basics of UDP socket programming.
+
+![screenshot](Screenshot_2025-11-30_22_19_49.png)
