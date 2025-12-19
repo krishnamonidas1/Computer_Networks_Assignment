@@ -24,3 +24,5 @@ in the question.
 
 Learning Outcomes:
 1. Multiple client’s communication via server socket can be learned.
+
+![screenshot](Screenshot_2025-11-30_23_19_49.png) 
