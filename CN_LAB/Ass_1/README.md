@@ -13,3 +13,6 @@ Steps/ Hints: (if any):
    
 Learning Outcomes:
 1. Basics of TCP client and server programming.
+
+![screenshot](Screenshot_2025-11-30_19_32_01.png)
+
