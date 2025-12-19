@@ -14,4 +14,4 @@ Learning Outcomes:
 1. Use of RAW sockets to generate ICMP based flooding attack.
 2. Understanding the pattern of ICMP communication for DDoS attack.
 
-![screenshot](Screenshot from 2025-12-02 23-16-50.png)
+![screenshot](Screenshotfrom 2025-12-02 23-16-50.png)
