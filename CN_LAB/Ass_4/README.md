@@ -17,3 +17,6 @@ Steps/ Hints: (if any)
    
 Learning Outcomes:
 1. Knowledge of packet capturing tools, protocols and headers.
+
+![Ass4](https://github.com/user-attachments/assets/2327a16c-4c9d-463d-adee-09d56cafa734)
+
