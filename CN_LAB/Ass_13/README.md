@@ -16,9 +16,13 @@ captured packet in pcap/pcapng file.
 3. Draw a time diagram in C showing occurrences of different types of packets with
 time.
 4. List the unique types of the packets or the types of protocol from the extracted
-packets.
+packets
+.
 Learning Outcomes:
 1. Learning to analyze packets and its corresponding protocols.
 2. Learning the roles of L2/L3/L4 protocols for a communication.
 
-![screenshot](Screenshot from 2025-12-02 23-54-55.png)
+
+
+
+<img width="1846" height="1078" alt="Ass13" src="https://github.com/user-attachments/assets/9a3ca739-f18d-4b85-a5ef-0382e4f3d358" />
