@@ -13,7 +13,4 @@ Understanding mininet API.
 Learning to perform experiments in virtual networks.
 Output
 
-![screenshot](Screensho<img width="1846" height="1078" alt="As14" src="https://github.com/user-attachments/assets/c0c04e79-1f60-498d-af15-0f50ca1fc7d9" />
-t_2025-12-03_00_04_21.png)
-
-
+<img width="1846" height="1078" alt="Ass14" src="https://github.com/user-attachments/assets/2f38c51d-6553-46c5-9502-b5a21dbf97a4" />
