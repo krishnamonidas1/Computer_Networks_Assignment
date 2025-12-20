@@ -12,6 +12,8 @@ Steps/ Hints: (if any)
 Learning Outcomes:
 1. Knowledge of packet generation and capturing tools.
 
-![screenshot](Screenshot from 2025-11-30 23-06-44.png)
-![screenshot](Screenshot from 2025-11-30 23-25-28.png)
 
+
+<img width="1846" height="1078" alt="Ass5a" src="https://github.com/user-attachments/assets/4ceab07f-93aa-459f-8f31-1bdedd34510a" />
+
+<img width="1846" height="1078" alt="Ass5b" src="https://github.com/user-attachments/assets/3e8364ab-1e65-455d-b073-22906c8d95ad" />
