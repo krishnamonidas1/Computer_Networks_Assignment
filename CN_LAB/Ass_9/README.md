@@ -16,6 +16,8 @@ Steps/ Hints: (if any)
 client and server side.
 Learning Outcomes:
 1. Use of TCP for file transfer.
+<img width="1851" height="1078" alt="Ass9" src="https://github.com/user-attachments/assets/83d5d03f-cb02-4b89-9923-a27a3c42dd0a" />
 
 
-![screenshot](Screenshot from 2025-11-30 13-34-47.png)
+
+
